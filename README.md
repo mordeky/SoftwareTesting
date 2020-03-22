@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# SoftwareTesting
 
-You can use the [editor on GitHub](https://github.com/mordeky/SoftwareTesting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course, Software Quality Assurance and Testing Techniques (SQAT), is for Software Engineering Student in Zhejiang University of Technology (ZJUT), Hangzhou, China. However, everyone could get the courseware from here:
+https://mordeky.github.io/SoftwareTesting
+<!--https://gitee.com/mordeky/SoftwareTesting-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You’ll get to know me from http://www.scholat.com/mordekai.
 
-### Markdown
+## Course Introduction
+**Dear All**, we'll start our course today!! I know that you all have the ambitions to be a great software engineer like James Arthur Gosling (the father of Java) and Donald Ervin Knuth (the author of the Art of Computer Programming) in the future. To this end, let’s start from this course, *Software Quality Assurance and Testing Techniques* (briefly, **SQAT** or just **Software Testing**).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I believe **TDD** (**Test-Driven Development**) is a great idea to guide us to build a huge project, where we try our best to be. So, let’s try to learn as much as we can in this course. I’ll use the task-or-experiment oriented method to show you how to study this course. That is, I’ll give you PPT (.ppt or .pdf) and lab task (.docx) for each lecture. Your final aim is to complete the lab task by submitting your lab report as well as source code to the Chaoxing System in .zip package.
 
-```markdown
-Syntax highlighted code block
+<!--### Courseware Clone and Lab Report Submission-->
+### Labwork Submission
+<!--
+The courseware and the relative materials are relased in my giteee (码云) project: https://gitee.com/mordeky/SoftwareTesting. You can download it by directly clicking the “克隆/下载” button. However, I strongly suggest you to clone the courseware by using TortoiseGit: https://tortoisegit.org/download/, as this course will be continuously updated. You’ll find TortoiseGit is really helpful.
+-->
+Your labwork including your **lab report** and the related **source codes**, should be submitted in the [Chaoxing System](http://i.mooc.chaoxing.com).
 
-# Header 1
-## Header 2
-### Header 3
+### Assessment Methods
+You might concern the Assessment Methods at the end of this term. I list them below:
 
-- Bulleted
-- List
+Final Score = Formative Score (50%) + Final Exam Score (50%)
 
-1. Numbered
-2. List
+Formative Score = Lab Report (80%) + Discussion (20%)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mordeky/SoftwareTesting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Final Exam Score: **Closed-Book**!!

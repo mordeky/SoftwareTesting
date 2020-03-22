@@ -1,0 +1,39 @@
+
+~*.docx
+~$*.*
+~*.tmp
+.idea
+*.iml
+
+试卷
+
+out
+target
+answer
+STTP
+Textbooks
+
+JPacMan
+pdf
+Labwork_old
+SoftwareTesting
+
+JUnit5-Maven.docx
+SQAT.docx
+SQAT-Local.mht
+
+Courseplan/学生反馈
+Courseplan/Course Plan.doc
+Courseplan/教学大纲-64学时.docx
+Courseplan/教学大纲-64学时.docx
+Courseplan/教学大纲-64学时.docx
+Courseplan/Syllabus-48学时.docx
+Courseplan/考试质量分析.doc
+Courseplan/课程总结.doc
+Courseplan/课程教案.docx
+
+Textbooks/Introduction To Software Testing.pdf
+Textbooks/JUnit in Action, Second Edition.pdf
+Textbooks/Pezzo-Young-Structural-Testing-Chap14.pdf
+Textbooks/Software_Test_and_Analysis_in_a_Nutshell.pdf
+
