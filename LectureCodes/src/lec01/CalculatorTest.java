@@ -8,13 +8,13 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {
-    Calculator calculator;
-    AClass a;
+    lec01.Calculator calculator;
+    lec01.AClass a;
 
     @BeforeEach
     public void start() {
-        calculator = new Calculator();
-        a = new AClass();
+        calculator = new lec01.Calculator();
+        a = new lec01.AClass();
         assertNotNull(calculator);
     }
 
