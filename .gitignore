@@ -1,4 +1,4 @@
-
+﻿
 ~*.docx
 ~$*.*
 ~*.tmp
@@ -9,7 +9,7 @@
 
 out
 target
-answer
+# answer
 STTP
 Textbooks
 

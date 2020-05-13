@@ -1,10 +1,6 @@
-package task02;
+package Lab02.task02;
 
-import org.junit.jupiter.api.Test;
-
-import static java.time.Duration.ofMillis;
-import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.assertTimeoutPreemptively;
+import org.junit.Test;
 
 /**
  * Calculator Tester.

@@ -1,4 +1,4 @@
-package task01;
+package Lab02.task01;
 
 public class Apple {
     String color;

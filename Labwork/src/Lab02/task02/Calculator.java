@@ -1,4 +1,4 @@
-package task02;
+package Lab02.task02;
 
 public class Calculator {
 

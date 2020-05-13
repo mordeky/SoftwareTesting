@@ -1,4 +1,4 @@
-package task03;
+package Lab01.task03;
 
 import org.junit.Before;
 import org.junit.Test;

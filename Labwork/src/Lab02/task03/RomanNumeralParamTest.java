@@ -1,4 +1,4 @@
-package task03;
+package Lab02.task03;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.params.ParameterizedTest;

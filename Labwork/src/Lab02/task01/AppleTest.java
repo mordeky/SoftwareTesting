@@ -1,8 +1,9 @@
-package task01;
+package Lab02.task01;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class AppleTest {
     @Test
