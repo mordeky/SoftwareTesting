@@ -15,7 +15,6 @@ import static org.junit.jupiter.api.Assertions.*;
 public class CalTest {
     @Test
     public void timeoutTesting() {
-
         assertTimeoutPreemptively(ofMillis(1000),
                 () -> new Cal().squareRoot(3));
     }

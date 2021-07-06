@@ -1,4 +1,4 @@
-package lec03.junit;
+package junit;
 
 public class Cal {
     public int add(int i, int j) {
@@ -6,7 +6,7 @@ public class Cal {
     }
 
     public void squareRoot(int n) {
-        for (; ; ) ;  // Bug : ËÀÑ­»·
+        for (; ; ) ;  // Bug : ï¿½ï¿½Ñ­ï¿½ï¿½
     }
 
     public float divide(int i, int j) {

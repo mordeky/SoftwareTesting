@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  *
  * @author Xiao-Xin Li
  * @version 1.0
- * @since <pre>ÈýÔÂ 4, 2020</pre>
+ * @since <pre>ï¿½ï¿½ï¿½ï¿½ 4, 2020</pre>
  */
 public class TriangleTest {
     private Triangle t;
