@@ -5,7 +5,7 @@
 .idea
 *.iml
 
-试卷
+Exam
 
 out
 target
@@ -15,12 +15,13 @@ Textbooks
 
 JPacMan
 pdf
-Labwork_old
 SoftwareTesting
 
 JUnit5-Maven.docx
 SQAT.docx
 SQAT-Local.mht
+
+绘图.vsdx
 
 Courseplan/学生反馈
 Courseplan/Course Plan.doc
@@ -38,6 +39,10 @@ Textbooks/Pezzo-Young-Structural-Testing-Chap14.pdf
 Textbooks/Software_Test_and_Analysis_in_a_Nutshell.pdf
 
 /Labwork/Dear Aicha and Sam.docx
-Labwork-Answer
-code-examples
+/Labwork/answer
+/Labwork/Labwork-2018
+/Labwork/Labwork-2020
+
+Lectures/code-examples
+
 Books
